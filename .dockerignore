@@ -1,0 +1,8 @@
+﻿node_modules
+dist
+.git
+.env
+coverage
+.prisma
+.pnpm-store
+pnpm-debug.log*
